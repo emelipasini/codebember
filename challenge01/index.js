@@ -1,6 +1,6 @@
 fs = require('fs');
 
-fs.readFile('./users.txt', 'utf8', function (err,data) {
+fs.readFile('./users.txt', 'utf8', function (err, data) {
     if (err) {
         return console.log(err);
     }
@@ -22,4 +22,3 @@ fs.readFile('./users.txt', 'utf8', function (err,data) {
     }
     console.log(count);
 });
-
