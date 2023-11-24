@@ -34,4 +34,16 @@ submit rauch
 submit 2023-12-01
 
 Codigo Konami
+
+confetti
+
+submit HTML
+
+submit itsmagic
+
+submit Altman
+
+do barrel roll
+
+submit majortom
 ```
